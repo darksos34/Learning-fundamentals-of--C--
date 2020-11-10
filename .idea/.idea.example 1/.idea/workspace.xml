@@ -14,6 +14,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -63,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605022752363</updated>
-      <workItem from="1605022757537" duration="293000" />
+      <workItem from="1605022757537" duration="1028000" />
     </task>
     <servers />
   </component>
